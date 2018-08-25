@@ -1,0 +1,22 @@
+﻿1 - Agrupando todos em um só, assim, diminuindo o tempo de carregamento
+
+2 - Removendo espaços em branco, corrigindo erros básicos de JS, e compactando arquivos, como por exemplo, agrupando vários em um só
+
+3 - Apache JMeter
+
+4 - h1, h2 ..., h6, div, p, form, ol/ul
+
+5 - A principal diferença é a visibilidade, já que o get envia os parâmetros pela URL, e o POST no corpo do HTML
+
+6 - inline, block, inline-block, none
+
+7 - inline não permitem que sejam alterados atributos, como altura e largura, já o block permite que outros elementos sejam colocados ao seu lado, e podem ser modificadas suas características
+
+8 - Relativo se move, deixando o espaço original em branco;
+Absoluto se move deixando que o antigo espaço seja ocupado pelo elemento que se segue;
+Estático é o valor de posicionamento padrão;
+Fixo é quando independente da rolagem da página, o elemento sempre estará naquela posição e daquele tamanho
+
+9 - No método .call, você passa os parâmetros, no .apply, você passa um array de parâmetros
+
+10 - == será considerado igual e === será considerado diferente
